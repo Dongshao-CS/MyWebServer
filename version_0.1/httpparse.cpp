@@ -1,6 +1,3 @@
-//
-// Created by marvinle on 2019/2/1 10:59 AM.
-//
 
 #include "../include/httpparse.h"
 #include "../include/utils.h"

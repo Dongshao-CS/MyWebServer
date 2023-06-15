@@ -1,6 +1,4 @@
-//
-// Created by marvinle on 2019/2/1 12:18 PM.
-//
+
 
 #include "../include/utils.h"
 
