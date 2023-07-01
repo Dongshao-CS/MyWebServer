@@ -36,7 +36,7 @@ epoll使用EPOLLONESHOT保证一个socket连接在任意时刻都只被一个线
 
 使用shared_ptr、weak_ptr管理指针，防止内存泄漏
 
-# 开发计划
+# 下一步开发计划
 添加异步日志系统，记录服务器运行状态
 增加json配置文件，支持类似nginx的多网站配置
 提供CGI支持
