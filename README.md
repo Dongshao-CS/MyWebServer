@@ -41,4 +41,4 @@ epoll使用EPOLLONESHOT保证一个socket连接在任意时刻都只被一个线
 增加json配置文件，支持类似nginx的多网站配置
 提供CGI支持
 类似nginx的反向代理和负载均衡
-必要时增加可复用内存池
+必要时增加可复用内存池。
